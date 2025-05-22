@@ -61,25 +61,6 @@ This system showcases full-stack integration between **hardware sensors/actuator
 3. The GUI interprets data and updates status indicators.
 4. Users can trigger device actions from the GUI, and commands are sent to the Arduino in real time.
 
-## 📁 Project Folder Structure (Recommended)
-```
-Arduino-Super-System/
-├── vbnet_gui/
-│ ├── MainForm.vb
-│ └── SerialCommunication.vb
-├── arduino_sketches/
-│ ├── fire_smoke_alarm.ino
-│ ├── alarm_system.ino
-│ ├── lighting_control.ino
-│ └── gate_access.ino
-│ └── earthquake.ino
-├── docs/
-│ ├── wiring_diagram.png
-│ ├── system_design.pdf
-│ └── user_manual.pdf
-└── README.md
-```
-
 ## 🧪 How to Run
 ### Hardware:
 - Upload sketches to the Arduino Uno and Mega.
