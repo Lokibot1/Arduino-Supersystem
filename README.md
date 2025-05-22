@@ -7,6 +7,21 @@ This system showcases full-stack integration between **hardware sensors/actuator
 
 > 📝 This project was developed as a capstone project by an IT student team, combining hardware, software, and GUI development.
 
+## 👥 Contributors
+```
+- Me: Project Manager, GUI Developer, Software Integrator, Documentation
+- https://github.com/xionnnnn: Arduino Developer (Fire and Smoke Detection)
+- Denmarc Maglipon: Arduino Developer (Gate Access Control)
+- https://github.com/hei-design: Arduino Developer (Lightning Control)
+- https://github.com/jsjs2324: Arduino Developer (Alarm System)
+- Moira Chelsey Burbos: Arduino Developer (Alarm System)
+- Lois Jay Rimorin: Arduino Developer (Alarm System)
+- Kurt Francis Carpeso: Arduino Developer (Gate Access Control)
+- Allyah Laroa: Arduino Developer (Earthquake Alarm)
+- Sarah Pedillaga: Arduino Developer (Earthquake Alarm)
+- Brent Kian Rasonabe: Miniature
+```
+
 ## 🧩 Integrated Subsystems
 1. 🔥 **Fire, Smoke, and Gas Alarm System**  
    - Detects hazardous smoke and gas levels  
@@ -74,21 +89,6 @@ Arduino-Super-System/
 
 ## 🎓 Capstone Project Context
 This system was built as a project to integrate embedded systems with desktop applications. It combines real-world automation with user-friendly controls in a single interactive platform.
-
-## 👥 Contributors
-```
-- Me: Project Manager, GUI Developer, Software Integrator, Documentation
-- https://github.com/xionnnnn: Arduino Developer (Fire and Smoke Detection)
-- Denmarc Maglipon: Arduino Developer (Gate Access Control)
-- Heila Longaquit: Arduino Developer (Lightning Control)
-- https://github.com/jsjs2324: Arduino Developer (Alarm System)
-- Moira Chelsey Burbos: Arduino Developer (Alarm System)
-- Lois Jay Rimorin: Arduino Developer (Alarm System)
-- Kurt Francis Carpeso: Arduino Developer (Gate Access Control)
-- Allyah Laroa: Arduino Developer (Earthquake Alarm)
-- Sarah Pedillaga: Arduino Developer (Earthquake Alarm)
-- Brent Kian Rasonabe: Miniature
-```
 
 ## 📜 License
 This project is for educational use only. For permissions or contributions, contact the development team.
