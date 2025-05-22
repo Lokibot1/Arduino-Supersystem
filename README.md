@@ -23,25 +23,29 @@ This system showcases full-stack integration between **hardware sensors/actuator
 ```
 
 ## 🧩 Integrated Subsystems
-1. 🔥 **Fire, Smoke, and Gas Alarm System**  
-   - Detects hazardous smoke and gas levels  
-   - Triggers alerts (buzzers, lights) and sends data to GUI
 
-2. 🕵️ **Motion Detection System**  
-   - Detects movement using PIR sensors  
-   - Logs activity and alerts via GUI
+1. 🔥 **Fire, Smoke, and Gas Alarm System**  
+   - Detects hazardous smoke and gas levels using appropriate sensors  
+   - Triggers alarms (buzzers, lights) and sends real-time status updates to the GUI
+
+2. 🕵️🚪 **Motion Detection with Gate Access Control System**  
+   - Uses PIR sensors to detect motion near a secured area (e.g., gate)  
+   - Automatically activates gate response using a servo motor (e.g., opens when movement is detected)  
+   - Sends motion activity and gate status feedback to the GUI
 
 3. 💡 **Lighting Control System**  
-   - GUI-based ON/OFF switch for lighting circuits  
-   - Controls relays wired to lights
+   - Allows users to toggle lights ON/OFF directly from the GUI  
+   - Operates through relay modules connected to lighting circuits
 
-4. 🚪 **Gate Access Control System**  
-   - GUI-based control to open/close gate using servo motor  
-   - Enhances security with manual and remote triggering
+4. ⏰ **Scheduled Alarm System**  
+   - Uses a Real-Time Clock (RTC) module to execute time-based actions  
+   - Triggers alarms or device behaviors on predefined schedules
 
-5. ⏰ **Scheduled Alarm System**  
-   - Time-triggered system based on RTC modules  
-   - Allows pre-configured actions like activating alarms or devices
+5. 🌎 **Earthquake Detection Simulation System**  
+   - Simulates earthquake detection using a manual button press  
+   - When activated, triggers alert indicators and GUI warnings  
+   - Designed as a conceptual subsystem for emergency drills/testing
+
 
 ## 🛠️ Technologies Used
 - **Frontend GUI**: VB.NET (Windows Forms)
