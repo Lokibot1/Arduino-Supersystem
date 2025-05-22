@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julia\\OneDrive\\Desktop\\Arduino\\Final Arduino\\FinalArduino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FA0CEE-714A-483F-B1CD-6E0DF87C9366}|FinalArduino\\FinalArduino.csproj|c:\\users\\julia\\onedrive\\desktop\\arduino\\final arduino\\finalarduino\\finalarduino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FA0CEE-714A-483F-B1CD-6E0DF87C9366}|FinalArduino\\FinalArduino.csproj|solutionrelative:finalarduino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FA0CEE-714A-483F-B1CD-6E0DF87C9366}|FinalArduino\\FinalArduino.csproj|C:\\Users\\Julia\\OneDrive\\Desktop\\Arduino\\Final Arduino\\FinalArduino\\finalarduino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76FA0CEE-714A-483F-B1CD-6E0DF87C9366}|FinalArduino\\FinalArduino.csproj|solutionrelative:finalarduino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Desktop\\Arduino\\Final Arduino\\FinalArduino\\FinalArduino\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalArduino\\Form1.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Desktop\\Arduino\\Final Arduino\\FinalArduino\\FinalArduino\\Form1.cs [Design]",
+              "RelativeToolTip": "FinalArduino\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:22:48.494Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Julia\\OneDrive\\Desktop\\Arduino\\Final Arduino\\FinalArduino\\FinalArduino\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalArduino\\Form1.cs",
+              "ToolTip": "C:\\Users\\Julia\\OneDrive\\Desktop\\Arduino\\Final Arduino\\FinalArduino\\FinalArduino\\Form1.cs",
+              "RelativeToolTip": "FinalArduino\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:14:37.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
