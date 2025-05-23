@@ -11,7 +11,7 @@ This system showcases full-stack integration between **hardware sensors/actuator
 ```
 - Me: Project Manager, GUI Developer, Software Integrator, Documentation
 - https://github.com/xionnnnn: Arduino Developer (Fire and Smoke Detection)
-- Denmarc Maglipon: Arduino Developer (Gate Access Control)
+- https://github.com/denmark-111: Arduino Developer (Gate Access Control)
 - https://github.com/hei-design: Arduino Developer (Lightning Control)
 - https://github.com/jsjs2324: Arduino Developer (Alarm System)
 - Moira Chelsey Burbos: Arduino Developer (Alarm System)
